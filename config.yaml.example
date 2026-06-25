@@ -1,0 +1,14 @@
+qq:
+  qq_number: "123456789"
+  check_interval_seconds: 300
+
+email:
+  smtp_server: "smtp.qq.com"
+  smtp_port: 465
+  username: "your@qq.com"
+  password: "your_auth_code"
+  from_email: "your@qq.com"
+  to_email: "notify@example.com"
+  use_tls: false
+
+state_file: "avatar_state.json"
